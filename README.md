@@ -1,1 +1,1 @@
-# GerryMandering-
+# GerryMandering- A Program created to calculate the democratic and republican votes of each states, that then decides if that state has been gerrymandered or not. In honor of the 2020 Presidential Elections coming up, I decided to make a program that parses thorough different files and finds not only the democratic and republican votes but also the amount of people eligbile to vote per state. I implmented a ourvector class header file that was then used to calculate the data. 
